@@ -1,4 +1,6 @@
 public class Zawody {
+    Samochud samochud;
+
     private String nazwa = "Lulz";
     private String data = "26.05.2001";
 
